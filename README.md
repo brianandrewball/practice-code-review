@@ -9,6 +9,12 @@ Welcome to the digital breakroom. This repository is dedicated to the world’s 
 **Why don’t programmers like nature?**
 > Because it has too many bugs and the outdoor lighting is way too high-res.
 
+
+### The Scarecrow Joke
+
+**Why did the scarecrow win an award?**
+
+> Because he was outstanding in his field.
 ---
 
 ### 🤝 How to Contribute
